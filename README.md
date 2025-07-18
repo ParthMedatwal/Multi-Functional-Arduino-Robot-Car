@@ -426,44 +426,6 @@ int rightsee() {
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to improve this project! Here's how you can help:
-
-### **Ways to Contribute**
-- 🐛 **Bug Reports**: Submit detailed issue reports
-- 💡 **Feature Requests**: Suggest new capabilities
-- 📝 **Documentation**: Improve guides and tutorials
-- 🔧 **Code Improvements**: Optimize performance and functionality
-- 📱 **Mobile App**: Enhance smartphone applications
-
-### **Contribution Process**
-1. Fork the repository
-2. Create a feature branch
-3. Make your improvements
-4. Test thoroughly
-5. Submit a pull request
-
----
-
-## 📚 Educational Resources
-
-### **Learning Objectives**
-- Arduino programming fundamentals
-- Motor control and PWM concepts
-- Sensor integration and data processing
-- Wireless communication protocols
-- Autonomous navigation algorithms
-- Voice recognition technology
-
-### **Recommended Reading**
-- Arduino Programming Handbook
-- Robotics and Automation Principles
-- Bluetooth Communication Protocols
-- Sensor Fusion Techniques
-
----
-
 ## 🏆 Project Extensions
 
 ### **Possible Enhancements**
